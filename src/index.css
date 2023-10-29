@@ -349,6 +349,7 @@ h2 {
   justify-content: center;
   background-color: var(--light);
   color: var(--dark);
+  height: 30vh;
 }
 
 .subscribe__title {
